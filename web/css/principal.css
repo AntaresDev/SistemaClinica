@@ -1,0 +1,70 @@
+/* 
+    Document   : principal
+    Created on : 12-jun-2012, 13:56:12
+    Author     : antares
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body { 
+    background-color:#544332;
+}
+
+#lienzo{
+    width: 900px;
+    height: 700px;
+    margin: auto;
+    position: relative;
+}
+
+#cabecera {
+    width: 900px;
+    height: 100px;
+    top: 0px;
+    position: absolute;
+    background: blue;
+}
+
+#menu {
+    width: 900px;
+    height: 50px;
+    top: 100px;
+    position: absolute;
+    background: darkkhaki;
+}
+
+
+#contenido {
+    width: 800px;
+    height: 550px;
+    top: 150px;
+    padding-top: 80px;
+    padding-left: 60px;
+    padding-right: 60px; 
+    position: absolute;
+    background: cornflowerblue;
+}
+
+#menu ul{
+    margin-left: 245px;
+    list-style: none;
+}
+#menu ul li{
+    display: block;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#titulo{
+    text-align: center;
+    color:#455433;
+    
+}
+
+.titulo{
+    text-align: center;
+    color:#455433;
+    size: 34px;
+    
+}

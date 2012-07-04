@@ -1,0 +1,91 @@
+Citas:
+  connection: doctrine
+  tableName: citas
+  columns:
+    id_citas:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: true
+      autoincrement: true
+    fecha:
+      type: timestamp(25)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+    id_clientes:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+    id_tipo:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+  relations:
+    Clientes:
+      local: id_clientes
+      foreign: id_clientes
+      type: one
+    TipoCitas:
+      local: id_tipo
+      foreign: id_tipo
+      type: one
+Clientes:
+  connection: doctrine
+  tableName: clientes
+  columns:
+    id_clientes:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: true
+      autoincrement: true
+    nombres:
+      type: string(50)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+    direccion:
+      type: string(70)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+  relations:
+    Citas:
+      local: id_clientes
+      foreign: id_clientes
+      type: many
+TipoCitas:
+  connection: doctrine
+  tableName: tipo_citas
+  columns:
+    id_tipo:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: true
+      autoincrement: true
+    nombre:
+      type: string(15)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+  relations:
+    Citas:
+      local: id_tipo
+      foreign: id_tipo
+      type: many

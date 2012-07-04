@@ -1,0 +1,656 @@
+jun 12 19:36:22 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 19:36:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 19:36:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 19:36:23 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 19:36:23 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 19:36:23 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:36:23 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:36:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 19:36:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 19:36:23 symfony [info] {sfWebDebugLogger} Configuration 1313.06 ms (9)
+jun 12 19:36:23 symfony [info] {sfWebDebugLogger} Factories 866.21 ms (1)
+jun 12 19:36:23 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.60 ms (1)
+jun 12 19:36:23 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 45.70 ms (1)
+jun 12 19:36:23 symfony [info] {sfWebResponse} Send content (28306 o)
+jun 12 19:40:38 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 19:40:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 19:40:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 19:40:38 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 19:40:38 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 19:40:38 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:40:38 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:40:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 19:40:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 19:40:38 symfony [info] {sfWebDebugLogger} Configuration 10.87 ms (9)
+jun 12 19:40:38 symfony [info] {sfWebDebugLogger} Factories 115.94 ms (1)
+jun 12 19:40:38 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.51 ms (1)
+jun 12 19:40:38 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 52.59 ms (1)
+jun 12 19:40:38 symfony [info] {sfWebResponse} Send content (28420 o)
+jun 12 19:43:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 19:43:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 19:43:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 19:43:43 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 19:43:43 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 19:43:43 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:43:43 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:43:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 19:43:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 19:43:43 symfony [info] {sfWebDebugLogger} Configuration 5.44 ms (9)
+jun 12 19:43:43 symfony [info] {sfWebDebugLogger} Factories 303.93 ms (1)
+jun 12 19:43:43 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.61 ms (1)
+jun 12 19:43:43 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 43.34 ms (1)
+jun 12 19:43:43 symfony [info] {sfWebResponse} Send content (28571 o)
+jun 12 19:53:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 19:53:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 19:53:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 19:53:50 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 19:53:50 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 19:53:50 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:53:50 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:53:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 19:53:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 19:53:50 symfony [info] {sfWebDebugLogger} Configuration 5.19 ms (9)
+jun 12 19:53:50 symfony [info] {sfWebDebugLogger} Factories 157.09 ms (1)
+jun 12 19:53:50 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.59 ms (1)
+jun 12 19:53:50 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 37.84 ms (1)
+jun 12 19:53:50 symfony [info] {sfWebResponse} Send content (28751 o)
+jun 12 19:54:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 19:54:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 19:54:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 19:54:43 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 19:54:43 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 19:54:43 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:54:43 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 19:54:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 19:54:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 19:54:43 symfony [info] {sfWebDebugLogger} Configuration 4.14 ms (9)
+jun 12 19:54:43 symfony [info] {sfWebDebugLogger} Factories 225.27 ms (1)
+jun 12 19:54:43 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.56 ms (1)
+jun 12 19:54:43 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 38.72 ms (1)
+jun 12 19:54:44 symfony [info] {sfWebResponse} Send content (28751 o)
+jun 12 20:08:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 20:08:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:08:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:08:42 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 20:08:42 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 20:08:42 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:08:42 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:08:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:08:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:08:42 symfony [info] {sfWebDebugLogger} Configuration 83.16 ms (10)
+jun 12 20:08:42 symfony [info] {sfWebDebugLogger} Factories 106.70 ms (1)
+jun 12 20:08:42 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.63 ms (1)
+jun 12 20:08:42 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 120.54 ms (1)
+jun 12 20:08:42 symfony [info] {sfWebResponse} Send content (29353 o)
+jun 12 20:10:22 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 20:10:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:10:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:10:22 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 20:10:22 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 20:10:22 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:10:22 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:10:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:10:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:10:22 symfony [info] {sfWebDebugLogger} Configuration 5.05 ms (9)
+jun 12 20:10:22 symfony [info] {sfWebDebugLogger} Factories 111.89 ms (1)
+jun 12 20:10:22 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.61 ms (1)
+jun 12 20:10:22 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 63.52 ms (1)
+jun 12 20:10:23 symfony [info] {sfWebResponse} Send content (29317 o)
+jun 12 20:11:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 20:11:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:11:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:11:31 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 20:11:31 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 20:11:31 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:11:31 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:11:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:11:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:11:31 symfony [info] {sfWebDebugLogger} Configuration 446.44 ms (9)
+jun 12 20:11:31 symfony [info] {sfWebDebugLogger} Factories 357.03 ms (1)
+jun 12 20:11:31 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.64 ms (1)
+jun 12 20:11:31 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 51.72 ms (1)
+jun 12 20:11:31 symfony [info] {sfWebResponse} Send content (29319 o)
+jun 12 20:33:54 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 20:33:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:33:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:33:54 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 20:33:54 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 20:33:54 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:33:54 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:33:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:33:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:33:54 symfony [info] {sfWebDebugLogger} Configuration 5.02 ms (9)
+jun 12 20:33:54 symfony [info] {sfWebDebugLogger} Factories 384.08 ms (1)
+jun 12 20:33:54 symfony [info] {sfWebDebugLogger} Action "inicio/index" 1.19 ms (1)
+jun 12 20:33:54 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 119.17 ms (1)
+jun 12 20:33:55 symfony [info] {sfWebResponse} Send content (29520 o)
+jun 12 20:38:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 20:38:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:38:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:38:56 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 20:38:56 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 20:38:56 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:38:56 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:38:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:38:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:38:56 symfony [info] {sfWebDebugLogger} Configuration 5.02 ms (9)
+jun 12 20:38:56 symfony [info] {sfWebDebugLogger} Factories 240.36 ms (1)
+jun 12 20:38:56 symfony [info] {sfWebDebugLogger} Action "inicio/index" 1.95 ms (1)
+jun 12 20:38:56 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 81.72 ms (1)
+jun 12 20:38:56 symfony [info] {sfWebResponse} Send content (29684 o)
+jun 12 20:47:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 20:47:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:47:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:47:07 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 20:47:07 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 20:47:07 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:47:07 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:47:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:47:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:47:07 symfony [info] {sfWebDebugLogger} Configuration 4.87 ms (9)
+jun 12 20:47:07 symfony [info] {sfWebDebugLogger} Factories 193.94 ms (1)
+jun 12 20:47:07 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.87 ms (1)
+jun 12 20:47:07 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 61.20 ms (1)
+jun 12 20:47:07 symfony [info] {sfWebResponse} Send content (29684 o)
+jun 12 20:58:09 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/acerca with parameters array (  'module' => 'inicio',  'action' => 'acerca',)
+jun 12 20:58:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:58:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:58:10 symfony [info] {inicioActions} Call "inicioActions->executeAcerca()"
+jun 12 20:58:10 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/acercaSuccess.php"
+jun 12 20:58:11 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:58:11 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:58:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:58:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:58:11 symfony [info] {sfWebDebugLogger} Configuration 5.98 ms (9)
+jun 12 20:58:11 symfony [info] {sfWebDebugLogger} Factories 1119.58 ms (1)
+jun 12 20:58:11 symfony [info] {sfWebDebugLogger} Action "inicio/acerca" 0.44 ms (1)
+jun 12 20:58:11 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/acerca" 242.58 ms (1)
+jun 12 20:58:11 symfony [info] {sfWebResponse} Send content (29927 o)
+jun 12 20:58:18 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 12 20:58:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:58:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:58:19 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 12 20:58:19 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 12 20:58:19 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:58:19 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:58:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:58:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:58:19 symfony [info] {sfWebDebugLogger} Configuration 11.16 ms (9)
+jun 12 20:58:19 symfony [info] {sfWebDebugLogger} Factories 872.74 ms (1)
+jun 12 20:58:19 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 0.56 ms (1)
+jun 12 20:58:19 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 199.20 ms (1)
+jun 12 20:58:19 symfony [info] {sfWebResponse} Send content (29968 o)
+jun 12 20:58:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 20:58:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 20:58:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 20:58:23 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 20:58:23 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 20:58:23 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:58:23 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 20:58:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 20:58:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 20:58:23 symfony [info] {sfWebDebugLogger} Configuration 4.98 ms (9)
+jun 12 20:58:23 symfony [info] {sfWebDebugLogger} Factories 180.50 ms (1)
+jun 12 20:58:23 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.58 ms (1)
+jun 12 20:58:23 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 80.37 ms (1)
+jun 12 20:58:23 symfony [info] {sfWebResponse} Send content (29815 o)
+jun 12 21:08:16 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 12 21:08:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 12 21:08:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 12 21:08:16 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 12 21:08:16 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 12 21:08:16 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 21:08:16 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 12 21:08:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 12 21:08:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 12 21:08:16 symfony [info] {sfWebDebugLogger} Configuration 22.39 ms (9)
+jun 12 21:08:16 symfony [info] {sfWebDebugLogger} Factories 715.38 ms (1)
+jun 12 21:08:16 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.48 ms (1)
+jun 12 21:08:16 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 67.49 ms (1)
+jun 12 21:08:16 symfony [info] {sfWebResponse} Send content (29848 o)
+jun 13 18:52:32 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 18:52:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 18:52:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 18:52:32 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 18:52:32 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 18:52:33 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 18:52:33 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 18:52:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 18:52:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 18:52:33 symfony [info] {sfWebDebugLogger} Configuration 5.04 ms (9)
+jun 13 18:52:33 symfony [info] {sfWebDebugLogger} Factories 459.63 ms (1)
+jun 13 18:52:33 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.59 ms (1)
+jun 13 18:52:33 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 119.60 ms (1)
+jun 13 18:52:33 symfony [info] {sfWebResponse} Send content (29700 o)
+jun 13 19:34:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:34:25 symfony [info] {myUser} Automatic user logout due to timeout
+jun 13 19:34:25 symfony [info] {myUser} User is not authenticated
+jun 13 19:34:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:34:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:34:26 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:34:26 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:34:26 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:34:26 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:34:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:34:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:34:26 symfony [info] {sfWebDebugLogger} Configuration 5.73 ms (9)
+jun 13 19:34:26 symfony [info] {sfWebDebugLogger} Factories 712.71 ms (1)
+jun 13 19:34:26 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.64 ms (1)
+jun 13 19:34:26 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 196.24 ms (1)
+jun 13 19:34:26 symfony [info] {sfWebResponse} Send content (30444 o)
+jun 13 19:35:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:35:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:35:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:35:18 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:35:18 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:35:18 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:35:18 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:35:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:35:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:35:18 symfony [info] {sfWebDebugLogger} Configuration 5.22 ms (9)
+jun 13 19:35:18 symfony [info] {sfWebDebugLogger} Factories 136.64 ms (1)
+jun 13 19:35:18 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.80 ms (1)
+jun 13 19:35:18 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 44.95 ms (1)
+jun 13 19:35:19 symfony [info] {sfWebResponse} Send content (29730 o)
+jun 13 19:37:57 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:37:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:37:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:37:57 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:37:57 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:37:57 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:37:57 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:37:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:37:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:37:57 symfony [info] {sfWebDebugLogger} Configuration 4.95 ms (9)
+jun 13 19:37:57 symfony [info] {sfWebDebugLogger} Factories 131.03 ms (1)
+jun 13 19:37:57 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.57 ms (1)
+jun 13 19:37:57 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 42.92 ms (1)
+jun 13 19:37:57 symfony [info] {sfWebResponse} Send content (29731 o)
+jun 13 19:40:34 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:40:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:40:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:40:34 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:40:34 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:40:34 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:34 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:40:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:40:34 symfony [info] {sfWebDebugLogger} Configuration 4.72 ms (9)
+jun 13 19:40:34 symfony [info] {sfWebDebugLogger} Factories 136.75 ms (1)
+jun 13 19:40:34 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.56 ms (1)
+jun 13 19:40:34 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 94.71 ms (1)
+jun 13 19:40:34 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:40:35 symfony [info] {sfWebResponse} Send content (29731 o)
+jun 13 19:40:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:40:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:40:35 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:40:35 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:40:35 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:35 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:40:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:40:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} Configuration 10.93 ms (9)
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} Factories 487.66 ms (1)
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.46 ms (1)
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 178.52 ms (1)
+jun 13 19:40:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:40:35 symfony [info] {sfWebResponse} Send content (29733 o)
+jun 13 19:40:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:40:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:40:35 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:40:35 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:40:35 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:35 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:40:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} Configuration 9.11 ms (9)
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} Factories 377.11 ms (1)
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.46 ms (1)
+jun 13 19:40:35 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 127.66 ms (1)
+jun 13 19:40:35 symfony [info] {sfWebResponse} Send content (29732 o)
+jun 13 19:40:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:40:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:40:36 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:40:36 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:40:36 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:36 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:40:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:40:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:40:36 symfony [info] {sfWebDebugLogger} Configuration 14.63 ms (9)
+jun 13 19:40:36 symfony [info] {sfWebDebugLogger} Factories 1336.49 ms (1)
+jun 13 19:40:36 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.55 ms (1)
+jun 13 19:40:36 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 72.05 ms (1)
+jun 13 19:40:36 symfony [info] {sfWebResponse} Send content (29733 o)
+jun 13 19:41:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:06 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:06 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:06 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:07 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:07 symfony [info] {sfWebDebugLogger} Configuration 6.12 ms (9)
+jun 13 19:41:07 symfony [info] {sfWebDebugLogger} Factories 295.15 ms (1)
+jun 13 19:41:07 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.67 ms (1)
+jun 13 19:41:07 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 557.05 ms (1)
+jun 13 19:41:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:07 symfony [info] {sfWebResponse} Send content (29733 o)
+jun 13 19:41:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:08 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:08 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:08 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:08 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:08 symfony [info] {sfWebDebugLogger} Configuration 14.52 ms (9)
+jun 13 19:41:08 symfony [info] {sfWebDebugLogger} Factories 855.28 ms (1)
+jun 13 19:41:08 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.61 ms (1)
+jun 13 19:41:08 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 187.70 ms (1)
+jun 13 19:41:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:08 symfony [info] {sfWebResponse} Send content (29734 o)
+jun 13 19:41:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:10 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:10 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:10 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:11 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:11 symfony [info] {sfWebDebugLogger} Configuration 146.62 ms (9)
+jun 13 19:41:11 symfony [info] {sfWebDebugLogger} Factories 2262.91 ms (1)
+jun 13 19:41:11 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.50 ms (1)
+jun 13 19:41:11 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 1440.27 ms (1)
+jun 13 19:41:11 symfony [info] {sfWebResponse} Send content (29737 o)
+jun 13 19:41:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:12 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:12 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:12 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:12 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} Configuration 16.24 ms (9)
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} Factories 5163.98 ms (1)
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.51 ms (1)
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 304.91 ms (1)
+jun 13 19:41:12 symfony [info] {sfWebResponse} Send content (29734 o)
+jun 13 19:41:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:12 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:12 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:12 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:12 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} Configuration 10.02 ms (9)
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} Factories 4663.72 ms (1)
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.55 ms (1)
+jun 13 19:41:12 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 43.07 ms (1)
+jun 13 19:41:12 symfony [info] {sfWebResponse} Send content (29733 o)
+jun 13 19:41:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:13 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:13 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:13 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:13 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} Configuration 5.36 ms (9)
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} Factories 4723.26 ms (1)
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.50 ms (1)
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 125.49 ms (1)
+jun 13 19:41:13 symfony [info] {sfWebResponse} Send content (29733 o)
+jun 13 19:41:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:13 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:13 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:13 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:13 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} Configuration 28.69 ms (9)
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} Factories 5078.67 ms (1)
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.54 ms (1)
+jun 13 19:41:13 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 47.61 ms (1)
+jun 13 19:41:13 symfony [info] {sfWebResponse} Send content (29733 o)
+jun 13 19:41:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 13 19:41:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 13 19:41:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 13 19:41:40 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 13 19:41:40 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 13 19:41:40 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:40 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 13 19:41:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 13 19:41:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 13 19:41:40 symfony [info] {sfWebDebugLogger} Configuration 4.99 ms (9)
+jun 13 19:41:40 symfony [info] {sfWebDebugLogger} Factories 168.47 ms (1)
+jun 13 19:41:40 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.58 ms (1)
+jun 13 19:41:40 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 82.39 ms (1)
+jun 13 19:41:41 symfony [info] {sfWebResponse} Send content (29731 o)
+jun 14 22:11:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 14 22:11:06 symfony [info] {myUser} Automatic user logout due to timeout
+jun 14 22:11:06 symfony [info] {myUser} User is not authenticated
+jun 14 22:11:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:11:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:11:07 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 14 22:11:07 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 14 22:11:07 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:07 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:11:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:11:07 symfony [info] {sfWebDebugLogger} Configuration 4.20 ms (9)
+jun 14 22:11:07 symfony [info] {sfWebDebugLogger} Factories 388.60 ms (1)
+jun 14 22:11:07 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.53 ms (1)
+jun 14 22:11:07 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 66.37 ms (1)
+jun 14 22:11:07 symfony [info] {sfWebResponse} Send content (30410 o)
+jun 14 22:11:15 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 22:11:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:11:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:11:15 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 22:11:16 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 22:11:16 symfony [notice] {sfWebDebugLogger}  Notice at /home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php on line 6 (Undefined variable: formlario)
+jun 14 22:11:16 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:16 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:11:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:11:16 symfony [info] {sfWebDebugLogger} Configuration 446.62 ms (11)
+jun 14 22:11:16 symfony [info] {sfWebDebugLogger} Factories 81.14 ms (1)
+jun 14 22:11:16 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 555.49 ms (1)
+jun 14 22:11:16 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 29.83 ms (1)
+jun 14 22:11:16 symfony [info] {sfWebResponse} Send content (30249 o)
+jun 14 22:11:49 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 22:11:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:11:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:11:49 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 22:11:49 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 22:11:49 symfony [notice] {sfWebDebugLogger}  Notice at /home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php on line 6 (Undefined variable: formulario)
+jun 14 22:11:49 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:49 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:11:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:11:49 symfony [info] {sfWebDebugLogger} Configuration 4.10 ms (9)
+jun 14 22:11:49 symfony [info] {sfWebDebugLogger} Factories 85.79 ms (1)
+jun 14 22:11:49 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 19.81 ms (1)
+jun 14 22:11:49 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 31.59 ms (1)
+jun 14 22:11:49 symfony [info] {sfWebResponse} Send content (30277 o)
+jun 14 22:11:53 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 22:11:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:11:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:11:53 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 22:11:53 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 22:11:53 symfony [notice] {sfWebDebugLogger}  Notice at /home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php on line 6 (Undefined variable: formulario)
+jun 14 22:11:53 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:53 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:11:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:11:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:11:53 symfony [info] {sfWebDebugLogger} Configuration 4.37 ms (9)
+jun 14 22:11:53 symfony [info] {sfWebDebugLogger} Factories 82.39 ms (1)
+jun 14 22:11:53 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 19.18 ms (1)
+jun 14 22:11:53 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 32.03 ms (1)
+jun 14 22:11:53 symfony [info] {sfWebResponse} Send content (30277 o)
+jun 14 22:13:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 22:13:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:13:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:13:28 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 22:13:28 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 22:13:28 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:13:28 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:13:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:13:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:13:28 symfony [info] {sfWebDebugLogger} Configuration 4.62 ms (9)
+jun 14 22:13:28 symfony [info] {sfWebDebugLogger} Factories 88.88 ms (1)
+jun 14 22:13:28 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 18.55 ms (1)
+jun 14 22:13:28 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 77.14 ms (1)
+jun 14 22:13:28 symfony [info] {sfWebResponse} Send content (33289 o)
+jun 14 22:14:35 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 22:14:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:14:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:14:35 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 22:14:35 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 22:14:35 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:35 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:14:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:14:35 symfony [info] {sfWebDebugLogger} Configuration 5.06 ms (9)
+jun 14 22:14:35 symfony [info] {sfWebDebugLogger} Factories 117.28 ms (1)
+jun 14 22:14:35 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 14.12 ms (1)
+jun 14 22:14:35 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 82.54 ms (1)
+jun 14 22:14:35 symfony [info] {sfWebResponse} Send content (33290 o)
+jun 14 22:14:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 22:14:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:14:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:14:38 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 22:14:38 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 22:14:38 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:38 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:14:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:14:38 symfony [info] {sfWebDebugLogger} Configuration 4.99 ms (9)
+jun 14 22:14:38 symfony [info] {sfWebDebugLogger} Factories 114.14 ms (1)
+jun 14 22:14:38 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 21.06 ms (1)
+jun 14 22:14:38 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 67.15 ms (1)
+jun 14 22:14:38 symfony [info] {sfWebResponse} Send content (33290 o)
+jun 14 22:14:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'inicio',  'action' => 'index',)
+jun 14 22:14:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:14:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:14:46 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+jun 14 22:14:46 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/indexSuccess.php"
+jun 14 22:14:46 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:46 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:14:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:14:46 symfony [info] {sfWebDebugLogger} Configuration 4.94 ms (9)
+jun 14 22:14:46 symfony [info] {sfWebDebugLogger} Factories 94.28 ms (1)
+jun 14 22:14:46 symfony [info] {sfWebDebugLogger} Action "inicio/index" 0.50 ms (1)
+jun 14 22:14:46 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 32.71 ms (1)
+jun 14 22:14:46 symfony [info] {sfWebResponse} Send content (29861 o)
+jun 14 22:14:48 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 22:14:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 22:14:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 22:14:48 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 22:14:48 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 22:14:48 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:48 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 22:14:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 22:14:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 22:14:48 symfony [info] {sfWebDebugLogger} Configuration 4.43 ms (9)
+jun 14 22:14:48 symfony [info] {sfWebDebugLogger} Factories 81.41 ms (1)
+jun 14 22:14:48 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 20.37 ms (1)
+jun 14 22:14:48 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 47.33 ms (1)
+jun 14 22:14:48 symfony [info] {sfWebResponse} Send content (33258 o)
+jun 14 23:12:14 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 23:12:14 symfony [info] {myUser} Automatic user logout due to timeout
+jun 14 23:12:14 symfony [info] {myUser} User is not authenticated
+jun 14 23:12:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 23:12:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 23:12:14 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 23:12:14 symfony [notice] {sfWebDebugLogger}  Notice at /home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/actions/actions.class.php on line 37 (Undefined variable: resultado)
+jun 14 23:12:14 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 23:12:14 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:12:14 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:12:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 23:12:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 23:12:14 symfony [info] {sfWebDebugLogger} Configuration 6.57 ms (9)
+jun 14 23:12:14 symfony [info] {sfWebDebugLogger} Factories 497.96 ms (1)
+jun 14 23:12:14 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 113.78 ms (1)
+jun 14 23:12:14 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 216.90 ms (1)
+jun 14 23:12:15 symfony [info] {sfWebResponse} Send content (34097 o)
+jun 14 23:14:09 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 23:14:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 23:14:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 23:14:09 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 23:14:09 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 23:14:09 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:14:09 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:14:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 23:14:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 23:14:09 symfony [info] {sfWebDebugLogger} Configuration 4.77 ms (9)
+jun 14 23:14:09 symfony [info] {sfWebDebugLogger} Factories 229.27 ms (1)
+jun 14 23:14:09 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 63.68 ms (1)
+jun 14 23:14:09 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 81.42 ms (1)
+jun 14 23:14:09 symfony [info] {sfWebResponse} Send content (33385 o)
+jun 14 23:14:22 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 23:14:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 23:14:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 23:14:22 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 23:14:23 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+jun 14 23:14:23 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO citas (id_clientes, fecha, id_tipo) VALUES (?, ?, ?) - (1, 2012-8-15, 1)
+jun 14 23:14:23 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 23:14:23 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:14:23 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:14:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 23:14:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 23:14:23 symfony [info] {sfWebDebugLogger} Configuration 3.90 ms (9)
+jun 14 23:14:23 symfony [info] {sfWebDebugLogger} Factories 90.22 ms (1)
+jun 14 23:14:23 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 1074.26 ms (1)
+jun 14 23:14:23 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.05 ms (2)
+jun 14 23:14:23 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 53.82 ms (1)
+jun 14 23:14:23 symfony [info] {sfWebResponse} Send content (33845 o)
+jun 14 23:20:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 23:20:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 23:20:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 23:20:20 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 23:20:20 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 23:20:20 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:20:20 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:20:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 23:20:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 23:20:20 symfony [info] {sfWebDebugLogger} Configuration 3.71 ms (9)
+jun 14 23:20:20 symfony [info] {sfWebDebugLogger} Factories 100.96 ms (1)
+jun 14 23:20:20 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 17.02 ms (1)
+jun 14 23:20:20 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 57.48 ms (1)
+jun 14 23:20:20 symfony [info] {sfWebResponse} Send content (33368 o)
+jun 14 23:20:27 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 23:20:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 23:20:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 23:20:27 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 23:20:27 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+jun 14 23:20:28 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO citas (id_clientes, fecha, id_tipo) VALUES (?, ?, ?) - (, --, 1)
+jun 14 23:20:28 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbcitas`.`citas`, CONSTRAINT `clientes_citas_fk` FOREIGN KEY (`id_clientes`) REFERENCES `clientes` (`id_clientes`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+jun 14 23:20:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+jun 14 23:20:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 23:20:28 symfony [info] {sfWebDebugLogger} Configuration 4.15 ms (8)
+jun 14 23:20:28 symfony [info] {sfWebDebugLogger} Factories 83.52 ms (1)
+jun 14 23:20:28 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 554.51 ms (1)
+jun 14 23:20:28 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.01 ms (1)
+jun 14 23:20:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /inicio/consulta with parameters array (  'module' => 'inicio',  'action' => 'consulta',)
+jun 14 23:20:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+jun 14 23:20:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+jun 14 23:20:34 symfony [info] {inicioActions} Call "inicioActions->executeConsulta()"
+jun 14 23:20:34 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/modules/inicio/templates/consultaSuccess.php"
+jun 14 23:20:34 symfony [info] {sfPHPView} Decorate content with "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:20:34 symfony [info] {sfPHPView} Render "/home/antares/Desarrollo/Symfony/netbeansprojects/sistemacitas/apps/principal/templates/layout.php"
+jun 14 23:20:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+jun 14 23:20:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+jun 14 23:20:34 symfony [info] {sfWebDebugLogger} Configuration 4.33 ms (9)
+jun 14 23:20:34 symfony [info] {sfWebDebugLogger} Factories 110.66 ms (1)
+jun 14 23:20:34 symfony [info] {sfWebDebugLogger} Action "inicio/consulta" 21.69 ms (1)
+jun 14 23:20:34 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/consulta" 62.60 ms (1)
+jun 14 23:20:34 symfony [info] {sfWebResponse} Send content (33368 o)
